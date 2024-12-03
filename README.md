@@ -1,4 +1,4 @@
-# Emelt szintű digitális kultúra érettségi - MySQL és PHPMyAdmin Docker környezet kialakítása
+# Emelt szintű digitális kultúra érettségi - MySQL és PHPMyAdmin környezet kialakítása Dockerben
 
 ## Áttekintés
 
